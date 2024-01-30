@@ -17,7 +17,7 @@ Happy coding and data exploration! 📈📊
 
 
 ## Certificates
-
+Here's several certificate that I accomplished. For further details regarding certificate from course complection, please check <a href="certificate.md">here</a>.
 
 ## Education
 Institut Teknologi Bandung -  Master of Science in Computational Science, 2020 - 2023
@@ -25,6 +25,7 @@ Institut Teknologi Bandung -  Master of Science in Computational Science, 2020 -
 Institut Teknologi Bandung - Bachelor of Science in Physics, 2014 - 2019
 
 ## Contacts
+- Resume: <a href="asset/resume.pdf">Resume</a>
 - Medium: <a href="https://medium.com/@mutiaraa">@mutiaraa</a>
 - Linkedin: <a href="https://linkedin.com/in/alyamf">Alya F</a>
 - Email: <a href="mailto:alyamf@gmail.com">alyamf@gmail.com</a>
