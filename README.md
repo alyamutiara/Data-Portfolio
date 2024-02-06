@@ -8,7 +8,7 @@ Let’s connect and collaborate on this data-driven journey! Whether you’re a 
 Happy coding and data exploration! 📈📊
 
 ## Skills & Tools
-- Pivot Table & Power BI
+- Pivot Table & Power Query
 - SQL
 - Python
 - Tableau
