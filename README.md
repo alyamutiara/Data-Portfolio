@@ -14,9 +14,9 @@ Happy coding and data exploration! 📈📊
 - Tableau
 
 ## Projects
-<b>Online Rental Movies</b><br>
-Code: <a href="project/SQL - Online Rental Movies/notebook.ipynb">Jupyter Notebook</a><br>
-Article: <a href="">Medium</a>
+Project | Associated | Area | Tools | Description
+---|---|---|---|---
+:movie_camera: MovieNow - Online Rental Movies: [Article](https://medium.com/@mutiaraa/sql-project-analyzing-online-movie-rental-4f81fa47ef3e), [Code](https://github.com/alyamutiara/DataAnalyst-Portfolio/blob/295dc98e0b74c2a0a9a78c96f321daf74c406264/project/SQL%20-%20Online%20Rental%20Movies/notebook.ipynb) | Datacamp | Exploratory Data Analysis | SQLite, Jupyter Notebook | The project is based on the dataset of the Data-Driven in SQL course from Datacamp, aimed to explore customers' preferences and demography, income for each period, and the effect on the movie's popularity starred by the popular actor.
 
 ## Certificates
 Here are several certificates that I accomplished. For further details regarding the certificate from course completion, please check <a href="certificate.md">here</a>.
