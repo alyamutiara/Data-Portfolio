@@ -22,9 +22,9 @@ Project | Associated | Area | Tools | Description
 Here are several certificates that I accomplished. For further details regarding the certificate from course completion, please check <a href="certificate.md">here</a>.
 
 ## Education
-Institut Teknologi Bandung -  Master of Science in Computational Science, 2020 - 2023
+**Institut Teknologi Bandung** -  Master of Science in Computational Science, 2020 - 2023
 
-Institut Teknologi Bandung - Bachelor of Science in Physics, 2014 - 2019
+**Institut Teknologi Bandung** - Bachelor of Science in Physics, 2014 - 2019
 
 ## Contacts
 - Resume: <a href="asset/resume.pdf">Resume</a>
