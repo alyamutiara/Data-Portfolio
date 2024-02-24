@@ -27,7 +27,7 @@ Here are several certificates that I accomplished. For further details regarding
 **Institut Teknologi Bandung** - Bachelor of Science in Physics, 2014 - 2019
 
 ## Contacts
-- Resume: <a href="asset/resume.pdf">Resume</a>
+- Resume: <a href="asset/resume.pdf">CV</a>
 - Medium: <a href="https://medium.com/@mutiaraa">@mutiaraa</a>
 - Linkedin: <a href="https://linkedin.com/in/alyamf">Alya F</a>
 - Email: <a href="mailto:alyamf@gmail.com">alyamf@gmail.com</a>
