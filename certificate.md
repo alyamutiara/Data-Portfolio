@@ -16,11 +16,13 @@ Here's a list of certificates from a paid exam and course completion.
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/e049779957e4004b41fad7b4ad582c365a691851?raw=1">PostgreSQL Summary Stats and Window Functions</a> (Datacamp)
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/a3fa785263c5ac857c184e194d0a39fd09328847?raw=1">Functions for Manipulating Data in PostgreSQL</a> (Datacamp)
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/11caa25db92f6cfd95105aaf22ac5ac07ce8527e?raw=1">Database Design</a> (Datacamp)
+- <a href="https://academy.dqlab.id/certificate/pdf/DQLABSQLT1WUAPUU">Fundamental SQL using SELECT Statement</a> (DQLab)
 
 ### Python
 - <a href="https://www.kaggle.com/learn/certification/alyamf/intro-to-programming">Intro to Programming</a> (Kaggle)
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/d020fe0a370fbf18080131cc713059749fa9074c?raw=1">Introduction to Python</a> (Datacamp)
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/a7bf4edbd6cac43135ac7a97fb47f6e49730d5de?raw=1">Intermediate Python</a> (Datacamp)
+- <a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1TVKBBL">Python Fundamental for Data Science</a> (DQLab)
 
 ### Tableau
 - <a href="https://www.datacamp.com/statement-of-accomplishment/course/ad400a557ab7d1448b2eda0c88c60b381d2bab67?raw=1">Introduction to Tableau</a> (Datacamp)
