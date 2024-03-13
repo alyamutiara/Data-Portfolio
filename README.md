@@ -21,6 +21,9 @@ Project | Associated | Area | Tools | Description
 ## Certificates
 Here are several certificates that I accomplished. For further details regarding the certificate from course completion, please check <a href="certificate.md">here</a>.
 
+[<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200">](https://www.credly.com/badges/004db99c-a05a-4bf2-8e71-1d8e3de73490/public_url "AWS Solution Architect Associate")
+[<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="200">](https://learn.microsoft.com/en-gb/users/AlyaFirdausyi-1081/credentials/FE76906AC590BF6A?ref=https%3A%2F%2Fwww.google.com%2F "Microsoft Azure Fundamentals")
+
 ## Education
 **Institut Teknologi Bandung** -  Master of Science in Computational Science, 2020 - 2023
 
