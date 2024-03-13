@@ -1,7 +1,7 @@
-# Alya Mutiara - Data Analytics Portfolio
+# Alya Mutiara - Data Portfolio
 
 ## Introduction
-Hi there! I'm Alya, a Cloud Engineer turned into a Data Analyst. Currently, on a mission to merge my passion for data with my technical expertise, I’ve embarked on a transformative journey. I left my role as a cloud system engineer to dive deep into the world of data analytics, driven by the excitement of working with vast datasets, creating insightful visualizations, and uncovering meaningful relationships within the numbers.
+Hi there! I'm Alya, a Cloud Engineer seeking a career switch into a data professional. Currently, on a mission to merge my passion for data with my technical expertise, I’ve embarked on a transformative journey. I left my role as a cloud system engineer to dive deep into the world of data, driven by the excitement of working with vast datasets, creating insightful visualizations, and uncovering meaningful relationships within the numbers.
 
 Let’s connect and collaborate on this data-driven journey! Whether you’re a fellow enthusiast, a potential collaborator, or someone with insights to share, your input is invaluable. Feel free to explore my projects, offer feedback, or connect with me on alyamf [at] gmail [dot] com as I build my path towards becoming a data analyst.
 
