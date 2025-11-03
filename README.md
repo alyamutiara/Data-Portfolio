@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm **Alya**, a **Data Platform Engineer** with a passion for **Cloud Architecture** and scalable data solutions. With a Master's degree in Computational Science from Institut Teknologi Bandung and hands-on experience at LinkNet and Xtremax, I specialize in building robust, cloud-native data platforms that transform raw data into business intelligence.
+Hi there! I'm **Alya**, a **Data Platform Engineer** with a passion for **Cloud Architecture** and scalable data solutions. With a Master's degree in Computational Science from Institut Teknologi Bandung and hands-on experience at Multi-National Companies, I specialize in building robust, cloud-native data platforms that transform raw data into business intelligence.
 
 My journey from **Cloud Engineer to Data Platform Engineer** has given me a unique perspective on designing enterprise-scale data architectures. I bridge the gap between infrastructure and analytics, building pipelines that process millions of records while maintaining reliability, security, and cost-efficiency.
 
