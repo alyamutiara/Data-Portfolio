@@ -172,7 +172,7 @@ Currently at **LinkNet**, I design and manage 20+ production Airflow DAGs, orche
 
 ---
 
-## � Professional Experience
+## Professional Experience
 
 ### **Data Platform Engineer** | LinkNet (PT Link Net Tbk) | *Aug 2024 - Present*
 *Leading Indonesian telecommunications provider - First Media & Link Net Fiber brands*
@@ -238,12 +238,12 @@ Currently at **LinkNet**, I design and manage 20+ production Airflow DAGs, orche
 - Achieved 85% model accuracy using Random Forest and XGBoost algorithms
 
 **Key Technical Learning:**
-- 🔹 Developed production-grade data pipelines ingesting data from GCP data lakes
-- 🔹 Performed transformations using **Apache Airflow, dbt, Apache Kafka, Apache NiFi, BigQuery**
-- 🔹 Created data visualizations and dashboards with **Looker and Tableau**
-- 🔹 Leveraged **dbt** for data transformation and modeling in Google BigQuery as data warehouse
-- 🔹 Implemented **Medallion architecture** (Bronze → Silver → Gold layers)
-- 🔹 Applied **DataOps best practices** including data quality testing with Soda
+- Developed production-grade data pipelines ingesting data from GCP data lakes
+- Performed transformations using **Apache Airflow, dbt, Apache Kafka, Apache NiFi, BigQuery**
+- Created data visualizations and dashboards with **Looker and Tableau**
+- Leveraged **dbt** for data transformation and modeling in Google BigQuery as data warehouse
+- Implemented **Medallion architecture** (Bronze → Silver → Gold layers)
+- Applied **DataOps best practices** including data quality testing with Soda
 
 **Skills Gained:** Data Pipeline Design, Cloud Data Architecture, Real-Time Streaming, Data Modeling, Data Visualization, MLOps
 
@@ -261,9 +261,9 @@ Currently at **LinkNet**, I design and manage 20+ production Airflow DAGs, orche
         <br/>
         <b>AWS Certified Data Engineer - Associate</b>
         <br/>
-        <i>Issued: Nov 2024</i>
+        <i>Issued: Aug 2025</i>
         <br/>
-        <i>Valid until: Nov 2027</i>
+        <i>Valid until: Aug 2028</i>
       </a>
     </td>
     <td align="center" width="33%">
@@ -295,12 +295,6 @@ Currently at **LinkNet**, I design and manage 20+ production Airflow DAGs, orche
 
 **View all course completion certificates:** [certificate.md](certificate.md)
 
-**Specializations:**
-- 📊 **SQL:** Advanced SQL (Kaggle), PostgreSQL, Database Design (Datacamp)
-- 🐍 **Python:** Data Science, Machine Learning (Datacamp, Kaggle)
-- 📈 **Visualization:** Tableau, Data Storytelling (Datacamp)
-- 🏗️ **Engineering:** Data Engineering, ETL Pipelines (Datacamp)
-
 ---
 
 ## 🎓 Education
@@ -310,34 +304,6 @@ Currently at **LinkNet**, I design and manage 20+ production Airflow DAGs, orche
 
 **🎓 Bachelor of Science in Physics**  
 *Institut Teknologi Bandung (ITB)* | 2014 - 2019
-
----
-
-## 🎯 Core Competencies
-
-### 🏗️ Cloud Data Architecture
-- **Multi-Cloud Platforms:** AWS, GCP, Azure infrastructure design and optimization
-- **Data Warehouse Design:** Medallion architecture, dimensional modeling, data lakehouse patterns
-- **Cloud Migration:** Large-scale data platform migrations (100+ tables GCP ↔ AWS)
-- **Cost Optimization:** Resource right-sizing, query optimization, storage tiering
-
-### 🔄 Data Engineering & ETL/ELT
-- **Pipeline Orchestration:** Apache Airflow (20+ production DAGs), dbt, workflow automation
-- **Real-Time Streaming:** Apache Kafka, Debezium CDC, event-driven architectures
-- **Batch Processing:** AWS Glue, GCP Dataproc/Dataflow, PySpark, distributed computing
-- **Data Integration:** Multi-source ingestion (Oracle, MySQL, PostgreSQL, SQL Server, SAP)
-
-### ⚡ DataOps & Platform Engineering
-- **Monitoring & SLA Management:** Pipeline observability, alerting, performance tuning
-- **Data Quality:** Automated testing with Soda, data validation frameworks
-- **CI/CD for Data:** Infrastructure as Code, automated deployments, version control
-- **Security & Governance:** IAM, encryption, metadata management, Lake Formation
-
-### 💡 Solution Design & Leadership
-- **Technical Leadership:** Mentored 2+ engineers, led 5-person capstone team to Best Project award
-- **Cross-Functional Collaboration:** Bridging data engineering, analytics, and business teams
-- **Problem Solving:** Resolved 100+ complex infrastructure and data pipeline issues
-- **Documentation:** Created comprehensive technical documentation and knowledge bases  
 
 ---
 
