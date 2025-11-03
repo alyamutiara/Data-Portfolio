@@ -1,9 +1,48 @@
-# Alya's Certificate and Course
-Here's a list of certificates from a paid exam and course completion.
+# Alya's Certifications and Course Completions
 
-## Exam Certificate
-- <a href="">Microsoft Certification: Azure Fundamentals</a>, 2023 - 2025
-- <a href="">AWS Solution Architect Associate</a>, 2022 - 2025
+Professional certifications and continuous learning achievements demonstrating expertise in cloud data engineering, analytics, and related technologies.
+
+---
+
+## 🏆 Professional Certifications
+
+### AWS Certifications
+- **<a href="https://www.credly.com/badges/3bdeda8e-69ae-4ea0-9800-aea15d24e759">AWS Certified Data Engineer - Associate</a>**
+  - *Issued: November 2024*
+  - *Valid until: November 2027*
+  - Skills: Data pipelines, AWS Glue, Lake Formation, Redshift, Kinesis, Data modeling
+
+- **<a href="https://www.credly.com/badges/004db99c-a05a-4bf2-8e71-1d8e3de73490/public_url">AWS Certified Solutions Architect - Associate</a>**
+  - *Issued: 2022*
+  - *Valid until: 2025*
+  - Skills: Cloud architecture, EC2, S3, VPC, RDS, Security, High availability
+
+### Microsoft Certifications
+- **<a href="https://learn.microsoft.com/en-gb/users/AlyaFirdausyi-1081/credentials/FE76906AC590BF6A">Microsoft Certification: Azure Fundamentals (AZ-900)</a>**
+  - *Issued: 2023*
+  - *Valid until: 2025*
+  - Skills: Azure services, Cloud concepts, Core Azure services
+
+---
+
+## 🎓 Intensive Training Programs
+
+### Data Engineering Fellowship
+- **<a href="https://iykra.com">IYKRA Data Fellowship Batch 12</a>** 🏆 *Best Capstone Project*
+  - *Duration: March 2024 - July 2024 (4 months)*
+  - Fully-funded scholarship (1 of 20 selected students)
+  - Comprehensive data engineering curriculum covering:
+    - Apache Airflow orchestration
+    - dbt data transformation
+    - Apache Kafka & NiFi for streaming
+    - BigQuery data warehousing
+    - Cloud architecture on GCP
+    - ML pipeline development
+    - Data visualization (Looker, Tableau)
+
+---
+
+## 📚 Course Completions
 
 ## Course
 ### SQL
