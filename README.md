@@ -249,7 +249,7 @@ Currently at **LinkNet**, I design and manage 20+ production Airflow DAGs, orche
 
 ---
 
-## �📜 Certifications
+## 📜 Certifications
 
 ### Professional Certifications
 
@@ -329,26 +329,6 @@ I'm always excited to collaborate on data projects, discuss new opportunities, o
 <p align="center">
   <b>📄 Download my resume:</b> <a href="asset/resume.pdf">CV</a>
 </p>
-
----
-
-<p align="center">
-  <i>⭐ If you find my projects interesting, feel free to star them on GitHub!</i>
-  <br/>
-  <i>💬 Open to opportunities in: <b>Data Platform Engineering | Cloud Data Architecture | Solution Architecture | Senior Data Engineer</b></i>
-</p>
-
----
-
-## 📊 Impact Metrics
-
-- 🚀 **20+ Production Airflow DAGs** designed and managed with SLA monitoring
-- ☁️ **100+ Tables** migrated between GCP and AWS multi-cloud environments
-- ⚡ **500+ Vulnerabilities** remediated across cloud infrastructure
-- 🎯 **99.9% Pipeline Reliability** maintained across critical data workflows
-- 💰 **40% Reduction** in data access latency through optimization
-- 🔒 **70% Reduction** in security incidents through systematic vulnerability management
-- 🏆 **Best Capstone Project** - IYKRA Data Fellowship Batch 12
 
 ---
 
